@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/dash.quivertheapp.com",
     "slug": "quiver-login",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 220,
-    "timeDay": 159,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 210,
+    "timeDay": 99,
+    "timeWeek": 221,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2021-01-22": 55
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 101,
-    "timeWeek": 182,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 175,
+    "timeDay": 201,
+    "timeWeek": 204,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]
