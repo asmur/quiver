@@ -4,7 +4,7 @@
     "url": "https://dash.quivertheapp.com/#/",
     "icon": "https://favicons.githubusercontent.com/dash.quivertheapp.com",
     "slug": "quiver-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,9 +13,10 @@
     "time": 241,
     "timeDay": 374,
     "timeWeek": 306,
-    "timeMonth": 287,
+    "timeMonth": 284,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2021-08-20": 0,
       "2021-01-22": 55
     }
   },
@@ -24,19 +25,19 @@
     "url": "https://www.quivertheapp.com/",
     "icon": "https://favicons.githubusercontent.com/www.quivertheapp.com",
     "slug": "quiver",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 390,
-    "timeWeek": 370,
-    "timeMonth": 343,
+    "timeDay": 416,
+    "timeWeek": 379,
+    "timeMonth": 341,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2021-08-20": 0
+      "2021-08-20": 10
     }
   }
 ]
