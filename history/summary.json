@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2021-11-19": 1434,
+      "2021-11-20": 0,
+      "2021-11-19": 1440,
       "2021-11-18": 1440,
       "2021-11-17": 1440,
       "2021-11-16": 1440,
@@ -116,19 +117,20 @@
     "url": "https://www.quivertheapp.com/",
     "icon": "https://favicons.githubusercontent.com/www.quivertheapp.com",
     "slug": "quiver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 227,
-    "timeDay": 131,
-    "timeWeek": 136,
-    "timeMonth": 125,
-    "timeYear": 227,
+    "time": 226,
+    "timeDay": 134,
+    "timeWeek": 137,
+    "timeMonth": 126,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2021-11-19": 39
+      "2021-11-20": 0,
+      "2021-11-19": 33
     }
   }
 ]
