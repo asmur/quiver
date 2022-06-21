@@ -6,25 +6,29 @@ repo: quiver # Your Github repository name
 sites:
   - name: Quiver Login
     url: https://www.quivertheapp.com/login.html#/
+    icon: https://www.quivertheapp.com/images/quiver_favicon.ico
   - name: Quiver Site
     url: https://www.quivertheapp.com/
+    icon: https://www.quivertheapp.com/images/quiver_favicon.ico    
   - name: PlumbingOwl Site
     url: https://plumbingowl.com/
+    icon: https://plumbingowl.com/img/plumbing_owl.b005b40c.png
   - name: PlumbingOwl Login
     url: https://plumbingowl.com/login.html#/
+    icon: https://plumbingowl.com/img/plumbing_owl.b005b40c.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /quiver
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.quivertheapp.com/images/quiver_favicon.ico
   name: Quiver and PlumbingOwl uptime monitor
   introTitle: "**Quiver** and **PlumbingOwl** uptime monitor and status page."
   introMessage: Status page which uses **real-time** data from webpages. Checks every 5mins and reports if the site is down
   navbar:
     - title: Status
-      href: /
+      href: /quiver
       
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
