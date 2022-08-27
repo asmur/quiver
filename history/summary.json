@@ -5,15 +5,15 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "up",
-    "uptime": "47.76%",
+    "uptime": "47.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.85%",
-    "time": 218,
-    "timeDay": 103,
+    "uptimeYear": "18.12%",
+    "time": 216,
+    "timeDay": 117,
     "timeWeek": 108,
-    "timeMonth": 109,
+    "timeMonth": 110,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2022-06-21": 1344,
@@ -313,8 +313,7 @@
       "2021-08-31": 1440,
       "2021-08-30": 1440,
       "2021-08-29": 1440,
-      "2021-08-28": 1440,
-      "2021-08-27": 1440
+      "2021-08-28": 1440
     }
   },
   {
@@ -328,11 +327,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 26,
-    "timeDay": 9,
-    "timeWeek": 20,
+    "time": 25,
+    "timeDay": 5,
+    "timeWeek": 9,
     "timeMonth": 21,
-    "timeYear": 26,
+    "timeYear": 25,
     "dailyMinutesDown": {}
   },
   {
@@ -346,11 +345,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 712,
-    "timeWeek": 236,
-    "timeMonth": 142,
-    "timeYear": 135,
+    "time": 134,
+    "timeDay": 58,
+    "timeWeek": 229,
+    "timeMonth": 141,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -365,9 +364,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 419,
-    "timeWeek": 71,
-    "timeMonth": 34,
+    "timeDay": 41,
+    "timeWeek": 75,
+    "timeMonth": 36,
     "timeYear": 40,
     "dailyMinutesDown": {}
   }
