@@ -5,11 +5,11 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "up",
-    "uptime": "63.69%",
+    "uptime": "63.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.20%",
+    "uptimeYear": "92.22%",
     "time": 150,
     "timeDay": 52,
     "timeWeek": 90,
@@ -149,17 +149,19 @@
     "url": "https://plumbingowl.com/login.html#/",
     "icon": "https://plumbingowl.com/img/plumbing_owl.b005b40c.png",
     "slug": "plumbing-owl-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 28,
-    "timeDay": 122,
-    "timeWeek": 25,
-    "timeMonth": 11,
-    "timeYear": 28,
-    "dailyMinutesDown": {}
+    "time": 29,
+    "timeDay": 223,
+    "timeWeek": 62,
+    "timeMonth": 21,
+    "timeYear": 29,
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   }
 ]
