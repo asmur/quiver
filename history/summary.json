@@ -5,18 +5,19 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "down",
-    "uptime": "69.93%",
+    "uptime": "69.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.12%",
-    "uptimeYear": "94.36%",
+    "uptimeMonth": "61.83%",
+    "uptimeYear": "94.09%",
     "time": 150,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 93,
+    "timeMonth": 94,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-01-09": 66,
+      "2024-01-10": 66,
+      "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -39,8 +40,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1260,
-      "2023-01-10": 18
+      "2023-03-17": 1260
     }
   },
   {
@@ -49,18 +49,19 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-site",
     "status": "down",
-    "uptime": "96.26%",
+    "uptime": "96.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.12%",
-    "uptimeYear": "94.36%",
+    "uptimeMonth": "61.83%",
+    "uptimeYear": "94.09%",
     "time": 29,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 8,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2024-01-09": 66,
+      "2024-01-10": 66,
+      "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -83,8 +84,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1260,
-      "2023-01-10": 17
+      "2023-03-17": 1260
     }
   },
   {
@@ -99,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 134,
-    "timeWeek": 107,
-    "timeMonth": 115,
+    "timeDay": 65,
+    "timeWeek": 88,
+    "timeMonth": 113,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -117,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 23,
-    "timeDay": 6,
-    "timeWeek": 7,
+    "timeDay": 4,
+    "timeWeek": 6,
     "timeMonth": 26,
-    "timeYear": 21,
+    "timeYear": 20,
     "dailyMinutesDown": {
       "2023-06-02": 753
     }
