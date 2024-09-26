@@ -5,18 +5,19 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "down",
-    "uptime": "56.41%",
+    "uptime": "56.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.32%",
+    "uptimeYear": "25.07%",
     "time": 102,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 102,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-09-25": 82,
+      "2024-09-26": 80,
+      "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -287,8 +288,7 @@
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 815,
-      "2023-09-27": 1361
+      "2023-12-29": 815
     }
   },
   {
@@ -297,18 +297,19 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-site",
     "status": "down",
-    "uptime": "65.96%",
+    "uptime": "65.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.32%",
+    "uptimeYear": "25.07%",
     "time": 16,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2024-09-25": 82,
+      "2024-09-26": 80,
+      "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -579,8 +580,7 @@
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 815,
-      "2023-09-27": 1361
+      "2023-12-29": 815
     }
   },
   {
@@ -595,9 +595,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 116,
-    "timeWeek": 109,
-    "timeMonth": 123,
+    "timeDay": 124,
+    "timeWeek": 114,
+    "timeMonth": 122,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -613,7 +613,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 17,
-    "timeDay": 3,
+    "timeDay": 9,
     "timeWeek": 15,
     "timeMonth": 19,
     "timeYear": 14,
