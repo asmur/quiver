@@ -5,7 +5,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "down",
-    "uptime": "44.29%",
+    "uptime": "44.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 102,
+      "2025-09-29": 97,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -379,8 +380,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-site",
     "status": "down",
-    "uptime": "45.63%",
+    "uptime": "45.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 102,
+      "2025-09-29": 97,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -763,8 +764,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -779,8 +779,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 160,
-    "timeWeek": 141,
+    "timeDay": 153,
+    "timeWeek": 154,
     "timeMonth": 149,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -797,8 +797,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 14,
-    "timeDay": 14,
-    "timeWeek": 25,
+    "timeDay": 19,
+    "timeWeek": 27,
     "timeMonth": 16,
     "timeYear": 14,
     "dailyMinutesDown": {}
