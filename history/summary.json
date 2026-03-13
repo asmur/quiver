@@ -5,7 +5,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "down",
-    "uptime": "40.42%",
+    "uptime": "40.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 127,
+      "2026-03-13": 131,
+      "2026-03-12": 1440,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -378,9 +380,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-site",
     "status": "down",
-    "uptime": "40.12%",
+    "uptime": "40.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -400,7 +400,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 127,
+      "2026-03-13": 131,
+      "2026-03-12": 1440,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -762,9 +764,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 56,
-    "timeWeek": 121,
+    "timeDay": 143,
+    "timeWeek": 107,
     "timeMonth": 111,
-    "timeYear": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -798,8 +798,8 @@
     "uptimeYear": "100.00%",
     "time": 19,
     "timeDay": 4,
-    "timeWeek": 40,
-    "timeMonth": 33,
+    "timeWeek": 6,
+    "timeMonth": 32,
     "timeYear": 22,
     "dailyMinutesDown": {}
   }
