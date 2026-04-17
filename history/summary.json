@@ -5,7 +5,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "down",
-    "uptime": "39.66%",
+    "uptime": "39.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 168,
+      "2026-04-17": 163,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -379,8 +380,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-site",
     "status": "down",
-    "uptime": "39.09%",
+    "uptime": "39.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 168,
+      "2026-04-17": 163,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -763,8 +764,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 148,
-    "timeWeek": 146,
-    "timeMonth": 136,
-    "timeYear": 135,
+    "time": 141,
+    "timeDay": 363,
+    "timeWeek": 167,
+    "timeMonth": 143,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -797,10 +797,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
-    "timeDay": 19,
-    "timeWeek": 28,
-    "timeMonth": 42,
-    "timeYear": 24,
+    "timeDay": 264,
+    "timeWeek": 65,
+    "timeMonth": 49,
+    "timeYear": 25,
     "dailyMinutesDown": {}
   }
 ]
