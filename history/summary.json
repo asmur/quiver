@@ -5,7 +5,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-login",
     "status": "down",
-    "uptime": "35.77%",
+    "uptime": "35.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-10": 379,
+      "2026-11-11": 304,
+      "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
@@ -379,8 +380,7 @@
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
-      "2025-11-12": 1440,
-      "2025-11-11": 1440
+      "2025-11-12": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://www.quivertheapp.com/images/quiver_favicon.ico",
     "slug": "quiver-site",
     "status": "down",
-    "uptime": "34.01%",
+    "uptime": "33.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-10": 379,
+      "2026-11-11": 304,
+      "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
@@ -763,8 +764,7 @@
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
-      "2025-11-12": 1440,
-      "2025-11-11": 1440
+      "2025-11-12": 1440
     }
   },
   {
@@ -778,10 +778,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 186,
-    "timeWeek": 139,
-    "timeMonth": 141,
+    "time": 147,
+    "timeDay": 373,
+    "timeWeek": 172,
+    "timeMonth": 146,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -797,10 +797,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 212,
-    "timeWeek": 132,
-    "timeMonth": 137,
-    "timeYear": 83,
+    "timeDay": 376,
+    "timeWeek": 165,
+    "timeMonth": 143,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   }
 ]
